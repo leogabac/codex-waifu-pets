@@ -6,8 +6,8 @@ A collection of chibi pixel-art pets for ChatGPT Desktop and Codex. Each package
 | --- | --- | --- |
 | [Kuroha](packages/kuroha-terminal.tar.gz) | Kuroha Tsukishiro, a half-elf, half-wolf researcher at Tsukikage Observatory. | [Preview](previews/kuroha.png) |
 | [Reiko](packages/reiko-terminal.tar.gz) | Reiko Hiramoto, in her default outfit. | [Preview](previews/reiko.png) |
-| [Holo](packages/holo-terminal.tar.gz) | Holo the Wise Wolf from *Spice and Wolf*, in her blue traveling blouse and red sash. | [Preview](previews/holo.png) |
-| [Myuri](packages/myuri-terminal.tar.gz) | Holo’s daughter from *Wolf & Parchment*, with silver wolf ears, a pale tail, and a relaxed idle pose. | [Preview](previews/myuri.png) |
+| [Holo](packages/holo-terminal.tar.gz) | Holo the Wise Wolf from *Spice and Wolf*. | [Preview](previews/holo.png) |
+| [Myuri](packages/myuri-terminal.tar.gz) | Holo’s daughter from *Wolf & Parchment*. | [Preview](previews/myuri.png) |
 
 ## Install
 
