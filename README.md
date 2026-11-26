@@ -5,7 +5,7 @@ A collection of chibi pixel-art pets for ChatGPT Desktop and Codex. Each package
 | Pet | Description | Animation sheet |
 | --- | --- | --- |
 | [Kuroha](packages/kuroha-terminal.tar.gz) | Kuroha Tsukishiro, a half-elf, half-wolf researcher at Tsukikage Observatory. | [Preview](previews/kuroha.png) |
-| [Reiko](packages/reiko-terminal.tar.gz) | Reiko Hiramoto, with a pink hoodie, sky-blue hair accents, and a bistable-trap hairpin. | [Preview](previews/reiko.png) |
+| [Reiko](packages/reiko-terminal.tar.gz) | Reiko Hiramoto, in her default outfit. | [Preview](previews/reiko.png) |
 | [Holo](packages/holo-terminal.tar.gz) | Holo the Wise Wolf from *Spice and Wolf*, in her blue traveling blouse and red sash. | [Preview](previews/holo.png) |
 | [Myuri](packages/myuri-terminal.tar.gz) | Holo’s daughter from *Wolf & Parchment*, with silver wolf ears, a pale tail, and a relaxed idle pose. | [Preview](previews/myuri.png) |
 
@@ -25,4 +25,4 @@ In an interactive Codex session, open `/pets` or select her directly with `/pets
 
 These sprites were made with generative AI. Official character reference sheets were provided where available, along with character sheets for the original characters. A GPT-Sol model used those sheets as visual references and directed ImageGen to create the pixel-art base sprites and individual animation frames. The generated frames were then assembled and checked with the pet tooling.
 
-Kuroha and Reiko are original characters. Holo and Myuri are unofficial fan sprites based on *Spice and Wolf* and *Wolf & Parchment*, respectively.
+Kuroha and Reiko are original characters created by [Fenrir Amadeus](https://x.com/fenriramadeus) a.k.a. this repository's owner. Holo and Myuri are unofficial fan sprites based on *Spice and Wolf* and *Wolf & Parchment*, respectively.
